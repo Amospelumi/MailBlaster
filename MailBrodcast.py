@@ -9,8 +9,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 #sender email address
-email_user = "oluwapelumiabiodun45@gmail.com"
-email_password = "DARAsimi2000$"
+email_user = "Your email"
+email_password = "Your Password"
 
 # List of users to whom email is to be sent
 email_send = ["oluwapelumiabiodun45@gmail.com","milikiadbay@gmail.com"]
